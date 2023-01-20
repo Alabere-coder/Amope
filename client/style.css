@@ -280,7 +280,7 @@ input {
     }
     .app {
         width: 100vw;
-  height: 90vh;
+  height: 100vh;
   /* background: #343541; */
 
   display: flex;
